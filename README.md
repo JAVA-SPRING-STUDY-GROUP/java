@@ -1,4 +1,6 @@
-# java
+# Java
 
 
 각자 브랜치를 만들어서 해당주차에 코딩연습한 부분을 올려주시면 됩니다.
+convention: feat : basic 내용 
+
